@@ -1,0 +1,18 @@
+.h-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 2.2cm;
+    padding-left: 2cm;
+    padding-right: 4cm;
+    color: var(--secondary);
+}
+.h-wrapper{
+    color: white;
+}
+.h-menu{
+    gap:2rem;
+}
+.h-menu>*:hover{
+    cursor:pointer;
+}
